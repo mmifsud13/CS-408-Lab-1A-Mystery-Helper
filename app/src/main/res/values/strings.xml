@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">Mifsud CS 408 Lab #1A Mystery Helper</string>
+    <string name="introText">Press the button to get story help...</string>
+    <string name="buttonName">Press me!</string>
+
+    <string-array name="outputs">
+        <item>you get knocked out</item>
+        <item>you go somewhere else</item>
+        <item>you find a dead man</item>
+        <item>you meet a buxom blonde</item>
+        <item>someone has searched the place</item>
+        <item>you find a dead bison</item>
+        <item>you find a case of cash</item>
+        <item>you notice a sudden silence</item>
+        <item>you find a child all alone</item>
+        <item>you meet a dinosaur</item>
+        <item>someone strange approaches you</item>
+        <item>you find 2 dead bison</item>
+    </string-array>
 </resources>
+
